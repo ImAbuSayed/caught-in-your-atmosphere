@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-your-atmosphere/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caught In Your Atmosphere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-atmosphere/) |
+| **Get License** | [Commercial Licensing for Caught In Your Atmosphere](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-atmosphere/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat of your skin pulling me near
+> Losing my breath when you whisper in my ear
+> Tangled up in the sheets as the shadows disappear
+> I'm beautifully caught in your atmosphere
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
